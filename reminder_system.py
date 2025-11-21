@@ -36,11 +36,11 @@ class ReminderSystem:
             timezone=cairo_tz
         )
 
-        # Evening reminder at 5 PM
+        # Evening reminder at 6 PM
         self.scheduler.add_job(
             self.send_evening_reminder,
             'cron',
-            hour=17,
+            hour=18,
             minute=0,
             id='evening_reminder',
             timezone=cairo_tz
