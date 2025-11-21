@@ -1,0 +1,40 @@
+# Core Bot
+python-telegram-bot==13.7
+
+# AI/ML Core
+torch==2.1.0
+sentence-transformers>=2.2.2
+transformers==4.36.2
+tokenizers==0.15.1
+
+# Vector Database & ML
+faiss-cpu
+scikit-learn
+
+# Data Processing
+numpy>=1.24.0
+pandas
+scipy
+
+# PDF Processing
+PyMuPDF>=1.23.0
+pytesseract
+nltk
+
+# Image Processing
+Pillow>=10.1.0
+
+# Arabic Text Support
+arabic-reshaper==2.1.4
+python-bidi
+
+# API Client
+groq
+
+# Scheduling for Reminders (Compatible with PTB 13.7)
+APScheduler==3.6.3
+
+# Additional utilities
+python-dateutil>=2.8.2
+pytz>=2023.3
+google-generativeai
