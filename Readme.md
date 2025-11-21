@@ -424,34 +424,6 @@ Next run will rebuild the index.
 - [ ] Multi-language interface
 - [ ] Mobile app integration
 
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
-## 📄 License
-
-[Specify your license here]
-
-## 👥 Team
-
-- Member 1: Core Infrastructure & Database
-- Member 2: Data Extraction & Preprocessing  
-- Member 3: RAG System & AI Integration
-- Member 4: Telegram Bot Interface
-- Member 5: Task Management & Reminders
-
-## 📞 Support
-
-For issues or questions:
-- Open an issue on GitHub
-- Contact team members
-- Check documentation in code comments
-
 ## 🙏 Acknowledgments
 
 - Groq for powerful AI inference
